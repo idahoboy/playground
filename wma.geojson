@@ -1,0 +1,623 @@
+{
+  "type":  "FeatureCollection",
+  "features":  [
+  {
+    "type":  "Feature",
+    "geometry":  {
+    "type": "Point",
+     "coordinates":  [
+     -114.009600499959,
+      42.300495240261
+    ]
+   },
+    "properties":  {
+    "OBJECTID":  "1",
+    "SHAPE":  "geometry",
+    "Name":  "BIG COTTONWOOD WMA",
+    "WildView":  "The WMA is home to reintroduced California bighorn sheep, mule deer, upland birds, native Yellowstone cutthroat trout, wild turkeys, bobcat, and a multitude of other wildlife species.
+
+Winter visitors may be rewarded with sightings of the elusive California bighorn sheep.
+
+The area supports huntable populations of ring-necked pheasants and gray partridge and smaller numbers of California quail and chukar partridge. And mule deer are year-round residents on the WMA.",
+    "HuntFish":  "The WMA offers hikers, mountain bikers and horse back riders an opportunity to access thousands of acres of public land.
+
+Hunters can find an assortment of upland gamebirds. The area supports huntable populations of ring-necked pheasants and gray partridge and smaller numbers of California quail and chukar partridge.
+
+Mule deer are year-round residents. Mule deer rifle hunting is by controlled permit only; however, archery season is managed under a general season framework.
+
+The WMA supports good numbers of Yellowstone cutthroat trout in the 6-10" range.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/BigCottonwood_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/bigCottonwood.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Magic Valley","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=169","X": "-114.0096005","Y": "42.30049524","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-114.881695300323, 42.830411610118]}, "properties": {"OBJECTID": "2","SHAPE": "geometry","Name": "BILLINGSLEY CREEK WMA","WildView": "Upland game species include ring-necked pheasants,
+     California quail,
+     and cottontail rabbits.
+
+Ducks and Canada geese,
+     mallards,
+     northern pintail,
+     gadwall,
+     American widgeon,
+     green-wing teal,
+     and cinnamon teal are observed on the WMA at different times of the year.
+
+Other mammals include coyote,
+     red fox,
+     striped skunk,
+     fox squirrel,
+     yellow-bellied marmot and porcupine.","HuntFish": "Billingslely Creek WMA is open to hunting. Duck hunting is the dominant late-winter use when nearby waters freeze. Because this is a small area it can become over-crowded with hunters. Deer hunting is limited to shotgun-only for safety reasons.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/BillingsleyCreek_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/billingsley.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Magic Valley","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=169","X": "-114.8816953","Y": "42.83041161","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-111.332450700079, 42.8207498598122]}, "properties": {"OBJECTID": "3","SHAPE": "geometry","Name": "BLACKFOOT RIVER WMA","WildView": "The Blackfoot River WMA provides year-round habitat for moose. Elk and mule deer frequently use the WMA in the spring,
+     summer and fall.
+
+Smaller mammal species are year long residents,
+     including badger,
+     striped skunk,
+     weasel,
+     snowshoe hare,
+     chipmunk,
+     porcupine,
+     and coyote.
+
+Many species of waterfowl,
+     including mallards,
+     teal,
+     gadwall,
+     pintail,
+     widgeon,
+     and Canada geese nest and rear their young on the Blackfoot River WMA.
+
+Bald and golden eagles,
+     Swainson?s hawk,
+     red-tailed hawk,
+     rough-legged hawk,
+     and northern harrier also frequent the area.","HuntFish": "Deer and elk hunting are available on Blackfoot River WMA lands. Upland game bird hunting for blue and ruffed grouse can be good in years of high production. Waterfowl hunting for Canada geese and ducks is also available.
+
+Fishing,
+     photography,
+     hiking,
+     sightseeing,
+     horseback riding and cross-country skiing are also enjoyed on the WMA.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/BlackfootRiver_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/blackfoot.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southeast","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=166","X": "-111.3324507","Y": "42.82074986","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.00656419981, 43.5686548401827]}, "properties": {"OBJECTID": "4","SHAPE": "geometry","Name": "BOISE RIVER WMA","WildView": "Over 7,
+    000 mule deer and nearly 500 elk spend the winter months on the WMA,
+     browsing,
+     resting and waiting out the long,
+     cold winter season. During other seasons,
+     both species are much less numerous.
+
+Bald and golden eagles are seen throughout the year,
+     though their concentrations tend to increase during winter months. Goshawks,
+     Cooper?s hawks and sharp-shinned hawks frequent the Douglas-fir and ponderosa pine forests. Red-tailed hawks,
+     northern harriers and American kestrels are common spring,
+     summer and fall residents of open country.
+
+Gopher snakes,
+     western rattlesnakes,
+     rubber boas and sagebrush lizards are found throughout the area.","HuntFish": "Big game,
+     upland bird and small game hunting are all available on Boise River WMA lands.
+
+Herds of mule deer,
+     elk and pronghorn winter on the WMA attract wildlife enthusiasts,
+     an attraction that can prove fatal to these big game species. Winter is a difficult time for them. Forage is often at a premium,
+     and winter temperatures,
+     wind and snowfall tax their already limited energy reserves. Human disturbance can be extremely harmful to big game animals during this period,
+     in some cases causing death or loss of fetuses.
+
+For this reason,
+     some areas within Boise River WMA are closed to the public during winter.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/BoiseRiver_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/boiseRiver.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southwest","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=166","X": "-116.0065642","Y": "43.56865484","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.546746599778, 48.983062690161]}, "properties": {"OBJECTID": "5","SHAPE": "geometry","Name": "BOUNDARY CREEK WMA","WildView": "Moose appear to make year-round use of a portion of the WMA associated with the alluvial fan where Boundary Creek meets the bottomlands.
+
+White-tailed deer are the most abundant big game species present and make year-round use of the WMA.Heaviest white-tailed use occurs during the winter and early spring.
+
+Morning doves nest on the WMA and occur along the Boundary Creek riparian zone in late summer,
+     fall and winter.
+
+Beaver,
+     muskrat,
+     otter and mink are common in the riparian forest along Boundary Creek. Other forbearing mammals observed include weasels,
+     coyotes,
+     raccoons and striped skunks.","HuntFish": "With a diverse wildlife community within the WMA there are many unique viewing opportunities. Waterfowl viewing is particularly rewarding during the spring migrations in March,
+     April and early May. Elk are frequently visible from early spring to late fall and you may see moose all year long.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/BoundaryCrk_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/boundary.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Panhandle","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=163","X": "-116.5467466","Y": "48.98306269","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-115.033602100107, 43.2688325802734]}, "properties": {"OBJECTID": "6","SHAPE": "geometry","Name": "CAMAS PRAIRIE C M WMA","WildView": "Waterfowl are numerous and include Canada geese,
+     mallards,
+     gadwalls,
+     American wigeon,
+     northern pintails,
+     green-winged,
+     blue-winged and cinnamon teal,
+     northern shovelers,
+     lesser scaup,
+     canvasbacks,
+     redheads and ruddy ducks.
+
+Sage grouse and gray partridge inhabit upland areas of the WMA.
+
+Barn,
+     bank and violet-green swallows hunt insects over Centennial Marsh.
+
+Upland habitats are home to western flycatchers,
+     horned larks,
+     mountain bluebirds,
+     sage thrashers and a host of other species.","HuntFish": "Late-season waterfowl hunting is available at the WMA. However,
+     opportunities are directly affected by precipitation levels the summer and fall previous. Upland bird hunting is spotty,
+     while small game hunting can be good in years of high rabbit numbers.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/CamasPrairie_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/camas.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Magic Valley","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=169","X": "-115.0336021","Y": "43.26883258","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-113.922889300229, 43.32144085983]}, "properties": {"OBJECTID": "7","SHAPE": "geometry","Name": "CAREY LAKE WMA","WildView": "Canada geese,
+     mallards,
+     northern pintail,
+     green-winged and cinnamon teal are some of the primary waterfowl species that nest on the WMA are easily observed throughout the nesting season.
+
+Shorebirds commonly seen from spring to fall are sandhill cranes,
+     long-billed curlews,
+     American avocet,
+     pied-billed and western grebe and spotted sandpiper.
+
+Songbirds are present throughout the spring and early summer,
+     most common are red-winged blackbirds,
+     yellow-headed blackbirds and western meadowlarks.
+
+Mule deer are the most abundant big game animal and can be found throughout the year. Pronghorn antelope will also occasionally come onto the WMA.
+
+Coyote,
+     red fox,
+     badger,
+     striped skunk and numerous rodents are found through the WMA and the surrounding farmland.","HuntFish": "The main recreational activity at the WMA is fishing. Carey Lake provides some very nice largemouth bass and bluegill.
+
+Waterfowl hunters can expect to be successful. Big game hunting and trapping on Carey Lake WMA are also popular.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/CareyLake_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/carey.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Magic Valley","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=169","X": "-113.9228893","Y": "43.32144086","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-111.920377599794, 43.8132775301537]}, "properties": {"OBJECTID": "8","SHAPE": "geometry","Name": "CARTIER SLOUGH WMA","WildView": "Moose,
+     mule deer and white-tailed deer are resident on the WMA and the occasional elk may be seen.
+
+Beaver,
+     muskrat,
+     cottontail rabbits are common throughout the WMA.
+
+Geese and a great variety of ducks nest on the WMA while trumpeter and tundra swans migrate through the area and are common during spring and fall months.
+
+At least four species of hummingbirds come to the WMA during spring and summer months.","HuntFish": "Big game hunting,
+     upland bird hunting or waterfowl hunting are all available on the WMA.
+
+Trails throughout the WMA are provided for hiking,
+     biking and horseback riding.
+
+Photography and viewing areas will bring pleasure to even the most seasoned bird watcher. During spring and fall migrating trumpeter swans can be seen and photographed.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/CartierSlough_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/cartier.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Upper Snake","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=171","X": "-111.9203776","Y": "43.81327753","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.899326399778, 44.7615958498741]}, "properties": {"OBJECTID": "9","SHAPE": "geometry","Name": "CECIL D ANDRUS WMA","WildView": "Mule deer and elk are the most common big game animals.
+
+A small band of big horn sheep are frequently found on the WMA and they are most visible during winter months. Black bears are year-round residents. Mountain lion and bobcat occur here too,
+     but are seldom seen due to their secretive nature. Other animals living here include coyote,
+     red squirrel,
+     weasel,
+     cottontail rabbit,
+     rubber boa and rattlesnake.
+
+Upland game species are abundant and include chukar,
+     gray partridge,
+     ruffed and blue grouse,
+     wild turkey and California quail.
+
+Golden eagles are year-round residents,
+     and bald eagles are seen along Brownlee Reservoir during winter. Red-tailed hawks,
+     northern harriers and American kestrels are commonly seen soaring across open hillsides.","HuntFish": "Most activity on the WMA begins in early September,
+     starting with the opening of grouse and chukar seasons,
+     and continues through the end of the year.
+
+Note:  While motorized vehicles are allowed access to the WMA,
+     gate key reservations may be made through the WMA headquarters starting September 1 at 7: 00am. Reservations for the big game and upland game seasons fill up quickly so plan your hunts ahead to ensure a key will be available.
+
+Wildlife viewing,
+     hiking,
+     biking and horseback riding are also popular activities. Most fishing occurs on adjacent Brownlee Reservoir.
+
+Idaho Power?s Woodhead Park on Brownlee Reservoir and McCormick Park below Brownlee Dam,
+     and the USFS Brownlee Guardstation Campground in the Payette National Forest provide camping facilities for those who visit the WMA.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/Andrus_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/andrus.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southwest","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=165","X": "-116.8993264","Y": "44.76159585","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-115.819421999899, 42.9432935000622]}, "properties": {"OBJECTID": "10","SHAPE": "geometry","Name": "CJ STRIKE WMA","WildView": "During the winter,
+     between 30,
+    000 and 90,
+    000 ducks,
+     mostly mallards and other ?puddle ducks,
+    ? are counted,
+     along with 5,
+    000 to 12,
+    000 Canada geese.
+
+For several years,
+     game farm rooster pheasants have been released on the WMA for hunting purposes. These birds complement naturally-produced wild pheasants. White-tailed deer have also been transplanted to the WMA and thrive in the riparian areas along the Snake and Bruneau river.","HuntFish": "Both duck and goose hunting are good throughout most of the hunting season. A variety of waterfowl hunting experiences can be found,
+     including jump shooting on the many potholes and small streams; hunting over decoys on the larger ponds,
+     rivers and the reservoir; and field hunting for Canada geese on agricultural lands on or next to the WMA.
+
+Rainbow trout,
+     bluegill,
+     black crappie,
+     bullhead trout,
+     channel catfish,
+     largemouth and smallmouth bass,
+     and sturgeon are the most sought-after game fish on WMA lands.
+
+Other popular activities include sight-seeing,
+     camping,
+     picnicking,
+     boating,
+     water skiing,
+     wind surfing,
+     photography,
+     scout encampments,
+     wildlife studies and bird watching.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/CJStrike_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/cJStrike.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southwest","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=165","X": "-115.819422","Y": "42.9432935","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.624041000235, 47.4795829498653]}, "properties": {"OBJECTID": "11","SHAPE": "geometry","Name": "COEUR D ALENE RIVER WMA","WildView": "Ruffed grouse,
+     common snipe,
+     mourning doves,
+     American coots,
+     Merriam?s turkeys and snowshoe hares are common on the WMA.
+
+Over 50 pairs of osprey nest on the lower Coeur d?Alene River,
+     and an additional 30 pairs of osprey nest near the mouth of the St. Joe river.
+
+Other conspicuous nongame birds common to the WMA include great blue herons,
+     red-tailed hawks,
+     northern harriers,
+     American kestrels,
+     Virginia and sora rails,
+     belted kingfishers,
+     common ravens and northern flickers.","HuntFish": "Waterfowl hunters and big game hunters will find good hunting opportunities for each season within and adjacent to the WMA.
+
+Camping,
+     recreational boating,
+     sightseeing,
+     bird watching and hiking are more of the outdoor activities awaiting the WMA visitors.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/CoeurDaleneRiver_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/coeur.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Panhandle","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=163","X": "-116.624041","Y": "47.47958295","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.795031800358, 46.05964716028]}, "properties": {"OBJECTID": "12","SHAPE": "geometry","Name": "CRAIG MOUNTAIN WMA","WildView": "Rocky Mountain bighorn sheep were reintroduced to the WMA in 1983 and have since flourished into a healthy population. Seventeen bighorns were captured near Dubois,
+     Wyoming and released in the Snake River segment.
+
+Dedicated bird watchers can enjoy sighting many bird species including yellow warbler,
+     blacked-capped chickadee and pileated woodpecker,
+     pigmy nuthatch,
+     flammulated owl,
+     and white-headed woodpecker.
+
+The entire WMA is open to non-motorized travel year-round and hikers,
+     horseback riders,
+     mountain bikers,
+     and cross-country skiers are welcome to traverse all the interior roads otherwise closed to motorized vehicles.","HuntFish": "Horseback riding,
+     mountain biking,
+     hiking,
+     cross country skiing,
+     snowmobile riding,
+     wildlife viewing,
+     photography,
+     camping and many more activities are enjoyed on the WMA.
+
+Hunting opportunities include general seasons for white-tailed deer,
+     black bear and mountain lion. There are also excellent controlled-hunt seasons for mule deer,
+     elk,
+     and bighorn sheep. Upland game bird hunting is popular,
+     with great opportunities for chukar,
+     forest grouse,
+     and wild turkey.
+
+Many upland gamebird species can be found on the WMA including plentiful populations of wild turkeys,
+     dusky grouse,
+     ruffed grouse,
+     chukar,
+     gray partridge,
+     mourning doves,
+     and California quail. These areas also host small populations of the sensitive mountain quail species.
+
+Fishing is available in several locations; smallmouth bass,
+     crappie and rainbow trout are available in nearby Waha Lake and Soldiers Meadow Reservoir.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/CraigMtn_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/craig.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Clearwater","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=164","X": "-116.7950318","Y": "46.05964716","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-111.985755900109, 43.77838185014]}, "properties": {"OBJECTID": "13","SHAPE": "geometry","Name": "DEER PARKS WMU","WildView": "At the end of March,
+     a flood of waterfowl fills Butte Slough,
+     providing a welcome chance to get outside after winter and view wildlife. Almost any species of waterfowl found in southern and eastern Idaho can be found here,
+     including redbreasted mergansers and trumpeter swans.
+
+In the spring,
+     migrating songbirds and raptors fill the cottonwood forests,
+     making Deer Parks a hot spot for birding.","HuntFish": "During any time of year,
+     the gentle landscape is an open invitation for nonmotorized travel,
+     whether walking,
+     horseback riding,
+     or cross-country skiing.
+
+In the fall,
+     secret coves and backwaters of the Snake River provide nice places for waterfowl hunting.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/DeerParks_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/deerPark.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Upper Snake","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=171","X": "-111.9857559","Y": "43.77838185","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.588136599563, 47.9742292399375]}, "properties": {"OBJECTID": "14","SHAPE": "geometry","Name": "FARRAGUT WMA","WildView": "White-tailed deer are the most numerous big game species on the WMA. The resident deer population averages 5-10 deer per square mile.
+
+Ruffed grouse and Merriam?s turkey are resident upland game species on the WMA.
+
+Small mammals include various squirrel,
+     packrat,
+     pocket gopher,
+     white-footed deer mice,
+     badger,
+     skunk,
+     porcupine and five species of bat. Coyotes,
+     bobcats and weasels are also in residence.","HuntFish": "A trail network on the WMA is available for hikers,
+     birdwatchers,
+     horseback riders,
+     mountain bikers,
+     mushroom gatherers and snowmobilers.
+
+The southern Wildlife Management Area parcels adjacent to Lake Pend Oreille have well developed recreational facilities,
+     including a boat launch,
+     parking areas,
+     restrooms,
+     docks and trails.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/Farragut_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/farragut.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Panhandle","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=163","X": "-116.5881366","Y": "47.97422924","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-117.008411100162, 43.818825109799]}, "properties": {"OBJECTID": "15","SHAPE": "geometry","Name": "FORT BOISE WMA","WildView": "Shallow water and thick riparian vegetation make Fort Boise WMA a waterfowl haven. Canada geese,
+     mallards,
+     gadwalls,
+     cinnamon teal and wood ducks commonly nest on WMA lands.
+
+During spring and fall migrations,
+     white-fronted geese,
+     wigeon and pintails visit the area to rest and replenish spent food reserves.
+
+During spring and summer months,
+     Fort Boise?s waterways and ponds brim with water birds. Great and snowy egrets,
+     black-crowned night herons and greater yellowlegs are but a few of the shorebirds seen in the wetlands,
+     creeks and smaller river channels.
+
+Larger water birds including American white pelicans,
+     double-crested cormorants and ring-billed gulls patrol deeper waters in search of food.","HuntFish": "Fort Boise is a popular site for wildlife watchers. Waterfowl are abundant during spring migration,
+     with the greatest number of bird species seen during March and April.
+
+Hunting is the most popular activity,
+     while wildlife viewing and fishing on the Snake River is a spring and summer favorite.
+
+A furbearer trapping season season has also been established. Trappers must register with Fort Boise WMA management personnel or at the region office.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/FortBoise_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/fortBoise.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southwest","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=165","X": "-117.0084111","Y": "43.81882511","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-111.414199299854, 42.5368102400434]}, "properties": {"OBJECTID": "16","SHAPE": "geometry","Name": "GEORGETOWN SUMMIT WMA","WildView": "Georgetown Summit WMA provides year-round habitat for elk and mule deer. Other wildlife making use of the WMA are mountain lion,
+     bobcat,
+     coyote,
+     badger,
+     cottontail rabbit,
+     weasel and ground squirrels.
+
+Bald eagle,
+     golden eagle,
+     hawks,
+     falcons,
+     sandhill crane,
+     ducks,
+     Canada geese,
+     ruffed grouse,
+     sharp-tailed grouse,
+     gray partridge and many species of songbirds are also common to the area.","HuntFish": "Visitors are welcome to wander the WMA in search of viewing and photo opportunities either on foot or horseback. Cross-country skiing is allowed throughout the WMA except in protected areas.
+
+The entire WMA is managed to provide quality opportunities for hunting,
+     trapping,
+     fishing and wildlife viewing.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/GeorgetownSummit_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/georgetown.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southeast","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=166","X": "-111.4141993","Y": "42.53681024","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-114.871950899839, 42.7660907301019]}, "properties": {"OBJECTID": "17","SHAPE": "geometry","Name": "HAGERMAN WMA","WildView": "Mallards,
+     gadwalls,
+     redheads,
+     ruddy ducks and Canada geese commonly nest and raise young on theWMA. Other migratory waterfowl include tundra and trumpeter swans,
+     northern pintails,
+     American wigeon,
+     cinnamon and green-winged teal,
+     lesser scaup and ring-necked ducks.
+
+Ospreys,
+     bald eagles,
+     peregrine falcons and rough-legged hawks are seasonal guests.
+
+Mule deer are common,
+     feeding in the irrigated fields and resting in the heavy cover and rough breaks.
+
+Western and Great Basin spadefoot toads inhabit moist areas,
+     and bullfrogs and Pacific tree frogs add their voices to Hagerman?s Wildlife symphony.","HuntFish": "For the more adventurous visitor,
+     Hagerman WMA offers soft-surfaced walking trails. Just a short distance from the hatchery buildings,
+     the Riley Creek Pond viewing blind offers the opportunity for an ?up close? look at waterfowl. The trails winding around Oster Lakes allow visitors to view waterfowl,
+     songbirds and other wildlife. The southern-most Oster Lake trail provides a panoramic view of the Snake River,
+     Gridley Island and Hagerman Valley.
+
+Upland game bird hunting is limited,
+     with ring-necked pheasant,
+     California quail and mourning dove providing infrequent hunting opportunities.
+
+A visit to Haterman WMA would not be complete without a tour of Hagerman State Fish Hatcery,
+     the Fish and Game?s largest resident trout production facility. A visitor information display provides hatchery details and a show pond is available for viewing.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/Hagerman_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/hagerman.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Magic Valley","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=169","X": "-114.8719509","Y": "42.76609073","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-112.141163200095, 43.7763438100838]}, "properties": {"OBJECTID": "18","SHAPE": "geometry","Name": "MARKET LAKE WMA","WildView": "Mallards,
+     Canada geese,
+     canvasbacks,
+     cinnamon and green-winged teal,
+     northern shovelers and ruddy ducks are common waterfowl species nesting and raising broods on the WMA.
+
+Several thousand white-faced ibis nest in scattered colonies throughout impoundment areas,
+     and numerous gulls,
+     terns,
+     egrets,
+     herons and grebes are common during spring and summer months.
+
+Bald and golden eagles are regular winter guests,
+     while red-tailed and Swainson?s hawks,
+     American kestrels and northern harriers are commonly observed during spring and summer months. Long-eared,
+     short-eared and saw-whet owls frequently nest on Market Lake WMA lands.
+
+Mammals frequenting Market Lake WMA include both mule and white-tailed deer and a small moose population.","HuntFish": "Market Lake WMA offers a variety of recreational pursuits including wildlife photography,
+     hiking,
+     horseback riding and picnicking.
+
+There is limited upland game hunting on Market Lake WMA,
+     with resident bird populations varying from year to year. Captive-raised pheasants are released to provide additional hunting opportunities. Cottontail rabbits frequent the lava rock ledges of Market Lake WMA,
+     providing hunters with fast-paced hunting action.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/MarketLake_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/market.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Upper Snake","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=171","X": "-112.1411632","Y": "43.77634381","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.457028499841, 48.5071070298745]}, "properties": {"OBJECTID": "19","SHAPE": "geometry","Name": "MCARTHUR LAKE WMA","WildView": "McArthur Lake WMA provides excellent Canada goose nesting habitat. Elevated nesting platforms are used and ground nesting also occurs.
+
+American coots breed and nest on the WMA and occasionally number over 1,
+    000 during migrations. Merriam?s turkeys are frequent visitors.
+
+White-tailed deer are abundant,
+     occupying the WMA year-round. Moose are also common residents,
+     mostly observable during June when they feed daily on aquatic vegetation in McArthur Lake.","HuntFish": "Waterfowl hunting is popular until freeze-up,
+     usually in November. The WMA is also frequently hunted for white-tailed deer,
+     black bear and moose. Many people visit the WMA to view wildlife,
+     particularly in June for moose and during the peak bird migrations in spring and fall.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/McArthurLake_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/mcarthur.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Panhandle","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=163","X": "-116.4570285","Y": "48.50710703","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.331650700315, 43.9277258301165]}, "properties": {"OBJECTID": "20","SHAPE": "geometry","Name": "MONTOUR WMA","WildView": "Ring-necked pheasants,
+     gray partridge,
+     and California quail are the most common upland game birds observed while Canada geese,
+     mallards,
+     pintails,
+     wood ducks,
+     and cinnamon,
+     blue and green-winged teal are frequently observed waterfowl species.
+
+Raptors are often seen in the area,
+     including red-tailed hawks,
+     northern harriers,
+     barn owls,
+     and kestrels. Bald eagles winter along the Payette River.
+
+The thick riparian vegetation provides habitat for a variety of mammals,
+     including mule deer,
+     coyotes,
+     muskrats,
+     beaver,
+     skunks,
+     mink,
+     raccoons,
+     and cottontail rabbits.","HuntFish": "Game bird hunting,
+     wildlife viewing,
+     fishing and camping are just some of the recreational activities enjoyed by visitors to Montour WRA.
+
+Bird hunting is permitted over the entire area,
+     with the exception of safety zones established around the developed campground and historic Montour townsite.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/Montour_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/montour.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southwest","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=165","X": "-116.3316507","Y": "43.92772583","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-111.257677199583, 42.3318335400461]}, "properties": {"OBJECTID": "21","SHAPE": "geometry","Name": "MONTPELIER WMA","WildView": "Birdwatchers visiting the WMA will find a diverse population of upland game birds and nongame birds.
+
+These include three types of grouse,
+     golden eagles,
+     various hawks,
+     great horned owls,
+     turkey vultures,
+     many different songbirds,
+     two hummingbird species and of course,
+     the ever present magpie and crow.","HuntFish": "Montpelier WMA and the surrounding public lands provide wonderful opportunities for mule deer and upland game hunting and viewing.
+
+Some fishing opportunity is available in the reach of Montpelier Creek that passes through the WMA.
+
+Good trails exist for hiking,
+     horseback riding and cross-country skiing.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/Montpelier_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/montpelier.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southeast","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=166","X": "-111.2576772","Y": "42.33183354","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-112.413167800406, 43.9026583801538]}, "properties": {"OBJECTID": "22","SHAPE": "geometry","Name": "MUD LAKE WMA","WildView": "Up to 50,
+    000 snow geese,
+     settle on Mud Lake in March and early April. Mallard,
+     northern pintail,
+     gadwall,
+     wigeon,
+     northern shoveler,
+     redhead and ring-necked ducks,
+     together with green-winged and cinnamon teal,
+     commonly nest in Mud Lake?s East and West Sloughs. Canada geese readily nest on islands and nesting structures scattered throughout the area.
+
+The largest of all waterfowl,
+     trumpeter swans,
+     are also present in the spring.
+
+Red-tailed and Swainson?s hawks frequently nest on the area; other hawk species spend a portion of the spring and/or fall on the WMA. Northern harriers (marsh hawks) are commonly seen dipping and gliding only inches above Mud Lake?s cattail marshes. Long-eared,
+     short-eared and saw-whet owls spend the summer at Mud Lake WMA,
+     nesting and raising their young. Bald and golden eagles are common fall and winter guests.","HuntFish": "Mud Lake is a popular destination for fishing enthusiasts. Largemouth bass are the primary species sought by anglers during spring,
+     while yellow perch fishing is common during winter months. In 1993,
+     tiger muskies were reintroduced to Mud Lake and provide a limited,
+     but exciting,
+     trophy fishery.
+
+Waterfowl hunting on Mud Lake WMA is often excellent in the late fall and early winter months. The quality of upland bird hunting (ring-necked pheasant and gray partridge) depends largely on nesting success the previous summer. Small game hunting can be good in years of high rabbit production.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/MudLake_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/mud.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Upper Snake","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=171","X": "-112.4131678","Y": "43.90265838","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-114.719423300413, 42.6720359599637]}, "properties": {"OBJECTID": "23","SHAPE": "geometry","Name": "NIAGARA SPRINGS WMA","WildView": "Over 5,
+    000 ducks and several hundred Canada geese winter along this portion of the Snake River annually. Spring nesting waterfowl include Canada geese,
+     green-winged and cinnamon teal,
+     mallards and wood ducks.
+
+Golden eagles,
+     prairie falcons,
+     American kestrels,
+     red-tailed hawks and northern harriers all nest on WMA lands,
+     and osprey and bald eagles are occasionally seen patrolling the Snake River in the fall,
+     winter and spring months.
+
+Reptiles and amphibians include gopher snakes,
+     racers,
+     side-blotched lizards,
+     Great Basin spadefoot toads,
+     bull frogs and Pacific treefrogs.","HuntFish": "Waterfowl hunting can be excellent along the Snake River and the ponds of Niagara Springs WMA. Upland game bird hunting is less reliable,
+     but in good production years can be an exciting outdoor experience. Small game hunting is also permitted on portions of Niagara Springs WMA.
+
+Rainbow trout fishing is popular at the Niagara Springs ponds and the Thompson/Mays Canal. Anglers often cast a line into the waters of the Snake River in pursuit of trout,
+     catfish and sturgeon.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/NiagaraSprings_thumbnial_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/niagara.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Magic Valley","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=169","X": "-114.7194233","Y": "42.67203596","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.75166869956, 43.9707296402756]}, "properties": {"OBJECTID": "24","SHAPE": "geometry","Name": "PAYETTE RIVER WMA","WildView": "Hundreds of geese nest around Payette River WMA,
+     together with mallards,
+     gadwalls,
+     northern pintails,
+     American wigeon,
+     green-winged and cinnamon teal,
+     lesser scaup,
+     redheads and wood ducks. Snowy and common egrets,
+     great blue herons,
+     American bitterns and white pelicans are often seen cruising the river.
+
+While large mammals are scarce,
+     small mammals are common. Muskrat,
+     mink and beaver patrol the waterways of the Payette River and reside in some of the WMA ponds,
+     sloughs and canals.
+
+Raccoon,
+     skunk,
+     red fox and coyote are all found on WMA lands,
+     but like their larger counterparts,
+     can be difficult to observe.","HuntFish": "Numerous two-track roads wind through the area,
+     and guests are welcome to hike these established routes or explore other areas on their own. Waterfowl and wading birds are easily spotted during a trek along the river?s edge.
+
+Waterfowl hunting can be good in early fall and winter. Upland game bird hunting (particularly for ring-necked pheasant) can be good,
+     though heavy cover makes a hunting dog necessary.
+
+Several of the WMA ponds contain bass,
+     and the Payette River is home to rainbow trout,
+     bass and other catchable species.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/PayetteRiver_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/payette.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southwest","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=165","X": "-116.7516687","Y": "43.97072964","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.392028899605, 48.2356572301867]}, "properties": {"OBJECTID": "25","SHAPE": "geometry","Name": "PEND OREILLE WMA","WildView": "Migrating and wintering waterfowl are supported on the WMA in large numbers. Commonly seen are tundra swans,
+     Canada geese,
+     American widgeon,
+     redheads,
+     mallards,
+     common mergansers,
+     common goldeneye,
+     bufflehead and ring-necked ducks.
+
+Areas of particular interest include Denton Slough for western grebe courtship displays and the Clark Fork River delta for common loon watching.","HuntFish": "Sight-seeing,
+     photography and recreational boating are just some of the outdoor activities awaiting Pend Oreille WMA visitors.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/PendOreille_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/pendoreille.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Panhandle","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=163","X": "-116.3920289","Y": "48.23565723","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-112.184038900173, 42.7169552798582]}, "properties": {"OBJECTID": "26","SHAPE": "geometry","Name": "PORTNEUF WMA","WildView": "Beaver reside in some creek drainages,
+     along with porcupine and mink. Coyotes,
+     raccoons,
+     yellow-bellied marmots,
+     cottontail rabbits and the occasional bobcat and mountain lion also roam the WMA.
+
+Golden eagles,
+     Northern harriers,
+     red-tailed hawks and great horned owls are commonly seen on Portneuf WMA. Swainson?s and rough-legged hawks are early spring visitors,
+     passing through on their migration flights north. Blue,
+     ruffed and Columbia sharptailed grouse are commonly found on the WMA.
+
+Some of the birds found on the WMA include:  American goldfinch,
+     lazuli bunting,
+     western kingbird,
+     western wood pewee,
+     black-capped chickadee,
+     sage thrasher,
+     rufous-sided towhee,
+     green-tailed towhee,
+     American robin,
+     ruby-crowned kinglet,
+     western meadowlark,
+     and pine siskin.","HuntFish": "Deer and elk hunting are available on Portneuf WMA lands. Upland game bird hunting for ringnecked pheasant and blue,
+     ruffed and sharp-tailed grouse can be good in years of high production.
+
+Photography,
+     hiking,
+     horseback riding and crosscountry skiing are some of the other outdoor activities available at Portneuf WMA.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/Portneuf_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/portneuf.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southeast","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=166","X": "-112.1840389","Y": "42.71695528","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-115.396217699697, 45.7477103602036]}, "properties": {"OBJECTID": "27","SHAPE": "geometry","Name": "RED RIVER WMA","WildView": "White-tailed deer and moose graze in the meadow and utilize adjacent timbered edges for calving and fawning areas. From late March to late May 100-200 elk can be seen in the meadow on the WMA.
+
+Canada geese and mallards nest in the meadow and a variety of birds such as blue herons,
+     shorebirds,
+     sandhill cranes and osprey migrate through the area. Red-tailed hawks nest in lodgepole pine stands in the area.
+
+The Red River flowing through the center of the property was once prime spawning habitat for spring Chinook salmon and today provides habitat for steelhead,
+     cutthroat and bull trout.","HuntFish": "The ranch house on Red River WMA is available to the public and other agencies for conservation related meetings,
+     organization gatherings,
+     education and training sessions. User fees are charged and used for maintaining and improving facilities.
+
+The viewing kiosk provides views of the meadowlands and it's wildlife community including elk, white-tailed deer, moose, geese, ducks and many others. The kiosk is equipped for those visitors who may be physically challenged.","PDFicon": "https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/RedRiver_thumbnail_small.PNG","PDFmap": "http://fishandgame.idaho.gov/public/docs/wma/redRiver.pdf","IDFGicon": "https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Clearwater","RegWebsite": "http://fishandgame.idaho.gov/public/about/offices/?getPage=164","X": "-115.3962177","Y": "45.74771036","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-111.664919299569, 44.1183998200979]}, "properties": {"OBJECTID": "28","SHAPE": "geometry","Name": "SAND CREEK WMA","WildView": "Sand Creek WMA?s hallmarks are large mammal populations; more than 3,000 elk, 1,500 mule deer and 400 moose winter in the area.
+
+Smaller mammal species are year-long residents including kangaroo rats, badgers, skunks, red fox, yellowbellied marmots and coyotes.
+
+The ponds and waterways of the WMA are home to beavers, muskrat and mink, while red squirrels and pine marten inhabit the forests of the northeast.
+
+Sharp-tailed and sage grouse reside on the WMA and spring finds these birds congregating on traditional breeding areas (leks), with males engaging in animated displays to both intimidate rivals and woo hens.
+
+The ponds at Sand creek attract a wide variety of waterfowl and shorebirds including common loons, western grebes, trumpeter swans, snowy egrets, sandhill cranes, willets and long-billed curlews.
+
+Osprey and the occasional bald eagle are drawn to the ponds in search of fish.","HuntFish": "Big game, upland game bird and small game hunting are available in season on the WMA.
+
+Trout fishing is popular at the Sand Creek Ponds, with opening weekend usually drawing a crowd.","PDFicon": "https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/SandCreek_thumbnail_small.PNG","PDFmap": "http://fishandgame.idaho.gov/public/docs/wma/sandCreek.pdf","IDFGicon": "https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Upper Snake","RegWebsite": "http://fishandgame.idaho.gov/public/about/offices/?getPage=171","X": "-111.6649193","Y": "44.11839982","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-115.561171099763, 47.039321419813]}, "properties": {"OBJECTID": "29","SHAPE": "geometry","Name": "SNOW PEAK WMA","WildView": "Snow Peak is home to an excellent population of mountain goats. Elk is another important species found on the WMA.
+
+There is excellent habitat for some of Idaho?s less common bird and mammal species such as fisher, wolves, northern goshawks and pileated woodpeckers","HuntFish": "Excellent hunting opportunities exist for pack trips, with approximately 40 miles of trail found within the borders. Numerous unimproved campsites are available and the possibility of harvesting a mature, branch-antlered bull is good.
+
+Backpackers, hikers, photographers, hunters and fishermen all enjoy the WMA.","PDFicon": "https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/SnowPeak_thumbnail_small.PNG","PDFmap": "http://fishandgame.idaho.gov/public/docs/wma/snowPeak.pdf","IDFGicon": "https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Panhandle","RegWebsite": "http://fishandgame.idaho.gov/public/about/offices/?getPage=163","X": "-115.5611711","Y": "47.03932142","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-116.569703000151, 47.2249865899172]}, "properties": {"OBJECTID": "30","SHAPE": "geometry","Name": "ST MARIES WMA","WildView": "Big game species on the WMA include white-tailed deer, mule deer, elk, moose, black bear and mountain lion.
+
+Upland game species include ruffed grouse and blue grouse.","HuntFish": "Hunting seasons for upland game and big game span the months of September through December, depending upon the species. The St. Maries River provides excellent fishing opportunities with some restrictions applying to cutthroat trout.
+
+The WMA provides wonderful opportunities for camping, picnicking, horseback riding, snowmobiling, wildlife viewing and hiking in a diverse setting of forest and mountain meadows. The town of St. Maries is close by for those forgotten camping and fishing items.","PDFicon": "https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/StMaries_thumbnail_small.PNG","PDFmap": "http://fishandgame.idaho.gov/public/docs/wma/stMaries.pdf","IDFGicon": "https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Panhandle","RegWebsite": "http://fishandgame.idaho.gov/public/about/offices/?getPage=163","X": "-116.569703","Y": "47.22498659","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-112.775504800086, 42.9709706798137]}, "properties": {"OBJECTID": "31","SHAPE": "geometry","Name": "STERLING WMA","WildView": "Bufflehead, Canada goose, gadwall, mallard, pintail, redhead, ring-necked duck, ruddy duck, scaup, shoveler, teal, and widgeon are common on the area at various times.
+
+Sterling WMA and American Falls Reservoir probably support the greatest variety of shorebirds in Idaho. American avocet, black-necked stilt, sandhill crane, and a variety of sandpipers use the area.
+
+Antelope, badger, beaver, cottontail rabbit, coyote, marmot, mink, mule deer, muskrat, pocket gopher, raccoon, red fox, striped skunk, and jackrabbits are some of the mammals which commonly occur in the area.","HuntFish": "The marshes provide good duck hunting opportunity, particularly early in the season. Food and cover plots provide opportunity for goose and pheasant hunting virtually throughout the season.","PDFicon": "https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/Sterling_thumbnail_small.PNG","PDFmap": "http://fishandgame.idaho.gov/public/docs/wma/sterling.pdf","IDFGicon": "https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Southeast","RegWebsite": "http://fishandgame.idaho.gov/public/about/offices/?getPage=166","X": "-112.7755048","Y": "42.97097068","Transparency": "","SymbolID": ""}},{ "type": "Feature", "geometry": {"type":"Point", "coordinates": [-111.67993800014, 43.432943410297]}, "properties": {"OBJECTID": "32","SHAPE": "geometry","Name": "TEX CREEK WMA","WildView": "Rocky Mountain elk and mule deer begin moving north toward Tex Creek in the late fall. More than 3,000 elk, 3,000 mule deer and 50 moose may winter on WMA lands each year.
+
+Sage and sharp-tailed grouse and gray partridge are found in the dry shrublands of Tex Creek WMA.
+
+Black-capped chickadees, brown creepers, wrens, goldfinches, shrikes and chipping sparrows inhabit Tex Creek WMA's forest,
+     riparian and upland communities. Bald and golden eagles,
+     goshawks and American kestrels also frequent the area.
+
+When water flows are sufficient,
+     the lower reaches of Tex Creek WMA?s streams support native cutthroat trout and introduced brook and German brown trout.","HuntFish": "Day hiking and horseback riding are excellent ways to search for WMA wildlife,
+     view the bountiful wildflowers and explore little-seen portions of Tex Creek.
+
+Hunting is popular at the WMA. Big game,
+     upland bird and small game hunting are all allowed in season.","PDFicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/TexCreek_thumbnail_small.PNG","PDFmap": "http: //fishandgame.idaho.gov/public/docs/wma/texCreek.pdf","IDFGicon": "https: //fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/user/idfg-pbond/IDFGlogo.jpg","Region": "Upper Snake","RegWebsite": "http: //fishandgame.idaho.gov/public/about/offices/?getPage=171","X": "-111.679938","Y": "43.43294341","Transparency": "","SymbolID": ""}}]}
