@@ -1,6 +1,4 @@
-
-<!-- saved from url=(0136)http://fishandgame.idaho.gov/gis/rest/services/Playground/PCD_and_Sites/MapServer/exts/GeoJSONServer/GeoJSON?query=1%3D1&layer=1&f=pjson -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css"></style><link type="text/css" rel="stylesheet" href="chrome-extension://cpngackimfmofbokmjmljamhdncknpmg/style.css"><script type="text/javascript" charset="utf-8" src="chrome-extension://cpngackimfmofbokmjmljamhdncknpmg/page_context.js"></script><meta name="chromesniffer" id="chromesniffer_meta" content="{}"><script type="text/javascript" src="chrome-extension://homgcnaoacgigpkkljjjekpignblkeae/detector.js"></script></head><body screen_capture_injected="true"><pre style="word-wrap: break-word; white-space: pre-wrap;">{
+{
   "type":  "FeatureCollection",
   "features":  [
   {
@@ -88740,4 +88738,4 @@
    }
   }
  ]
-}</pre></body></html>
+}
